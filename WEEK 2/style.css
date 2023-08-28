@@ -1,0 +1,48 @@
+body{
+     background-color: grey;
+}
+h1{
+    color  :blue;
+    font-size: 50px;
+}
+.Mokhotlong {
+    font-size: 50xp;
+    font-style: normal;
+    color:red; 
+}
+.Limkokwing {
+    font-style: normal;
+    color: blue;
+}
+.University {
+    color: green;
+    font-style: normal;
+}
+h2 {
+    font-size: 50px;
+    color: blue;
+}
+h3{
+    color: blue;
+    font-size: 50px;
+}
+h4{
+    color:blue;
+    font-size: 50px;
+}
+h5{
+    color:blue;
+    font-size: 50px;
+}
+.IMDB{
+    color:red;
+    font-style: normal;
+}
+.frame{
+    width: 30%;
+    height: 30%;
+}
+img{
+    width: 30%;
+    height: 30%;
+}
